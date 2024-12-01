@@ -1,4 +1,4 @@
-[![Logo]('resources/logo.png')]
+![Logo](https://github.com/darvcodev/social-media-sentiments/blob/main/resources/logo.png)]
 
 # Dashboard de Análisis de Sentimientos 📊
 
